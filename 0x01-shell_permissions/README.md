@@ -14,3 +14,4 @@ Shell Permissions
 12. More directories
 13. Change group
 14. Owner and group
+15. Symbolic links
